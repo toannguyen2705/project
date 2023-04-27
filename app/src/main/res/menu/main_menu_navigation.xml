@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+<!--        <item-->
+<!--            android:id="@+id/nav_staff"-->
+<!--            android:title="Quản lý nhân viên"-->
+<!--            android:icon="@drawable/ic_baseline_person_24"/>-->
+
+        <item android:title="Thành Viên">
+            <menu>
+                <group>
+                    <item android:title="Trần Gia Bảo " />
+                    <item android:title="Nguyễn Bùi Quốc Toản " />
+                    <item android:title="Nguyễn Minh Thư" />
+                    <item android:title="Nguyễn Nhật Sang " />
+                    <item android:title="Phan Anh Tuấn " />
+                </group>
+            </menu>
+        </item>
+
+
+    </group>
+</menu>
